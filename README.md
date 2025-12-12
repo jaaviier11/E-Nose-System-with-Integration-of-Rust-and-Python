@@ -36,7 +36,7 @@ For detailed test results, data analysis, and presentation materials, please ref
     [View Documentation](./documentation)
     Technical directory containing 3D Designs, Signal Graphs (Gnuplot/Edge Impulse), and other visual assets.
 
-* **Data CSV (`/data_csv`)**
+* **💾 Data CSV (`/data_csv`)**
     [View Data](./data_csv)
     Contains raw data sampling from the test, used to make graphs and data analysis.
 
