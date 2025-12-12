@@ -43,7 +43,7 @@ For detailed test results, data analysis, and presentation materials, please ref
 ## **▶️ Video Demo (`youtube`)**
 The video contains the explanation about the system project that we build. Click this link to view the system demonstration uploaded to YouTube.
 
-[E-Nose: Electronic Olfactory System with Rust and Python Integration](https://youtu.be/Z2aAtHEtpb0?si=8ufsRznXBt-KbuYh)
+[E-Nose: Electronic Olfactory System with Rust and Python Integration](https://youtu.be/Z2aAtHEtpb0?si=_aJ2fpYnZTa5Hh05)
 
 ## **🏗️ System Architecture**
 
