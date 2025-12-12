@@ -20,7 +20,7 @@ The system is powered by a high-performance Rust Backend for low-latency data pr
 
 **Instrumentation Engineering Departement - Institut Teknologi Sepuluh Nopember**
 
-## 📊 Test Results & Resources
+## **📊 Test Results & Resources**
 
 For detailed test results, data analysis, and presentation materials, please refer to the following directories:
 
@@ -36,9 +36,10 @@ For detailed test results, data analysis, and presentation materials, please ref
     [View Documentation](./documentation)
     Technical directory containing 3D Designs, Signal Graphs (Gnuplot/Edge Impulse), and other visual assets.
 
-* **▶️ Video Demo (`/youtube`)**
-    [View Video](./youtube)
-    Contains video assets or links to the system demonstration uploaded to YouTube.
+## **▶️ Video Demo (`youtube`)**
+The video contains the explanation about the system project that we build. Click this link to view the system demonstration uploaded to YouTube.
+
+[E-Nose: Electronic Olfactory System with Rust and Python Integration](https://youtu.be/He-uTJtBK6U)
 
 ## **🏗️ System Architecture**
 
