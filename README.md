@@ -36,10 +36,14 @@ For detailed test results, data analysis, and presentation materials, please ref
     [View Documentation](./documentation)
     Technical directory containing 3D Designs, Signal Graphs (Gnuplot/Edge Impulse), and other visual assets.
 
+* **Data CSV (`/data_csv`)**
+    [View Data](./data_csv)
+    Contains raw data sampling from the test, used to make graphs and data analysis.
+
 ## **▶️ Video Demo (`youtube`)**
 The video contains the explanation about the system project that we build. Click this link to view the system demonstration uploaded to YouTube.
 
-[E-Nose: Electronic Olfactory System with Rust and Python Integration](https://youtu.be/He-uTJtBK6U)
+[E-Nose: Electronic Olfactory System with Rust and Python Integration](https://youtu.be/Z2aAtHEtpb0?si=8ufsRznXBt-KbuYh)
 
 ## **🏗️ System Architecture**
 
@@ -59,6 +63,7 @@ SPS_PROJECT
 │   ├── .gitignore
 │   ├── Cargo.lock
 │   └── Cargo.toml               # Dependencies Rust
+├── data_csv                     # Exported CSV data storage
 ├── documentation                # Documentation Assets
 │   ├── 3d_design                # Hardware 3D Design
 │   ├── graph
