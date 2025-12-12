@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: edgeimpulse-api
+Version: 1.79.0
+Summary: Python bindings for the Edge Impulse API.
+Home-page: https://edgeimpulse.com
+License: BSD-3-Clause-Clear
+Author: EdgeImpulse Inc.
+Author-email: hello@edgeimpulse.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Embedded Systems
+Requires-Dist: aenum (>=3.1.11,<4.0.0)
+Requires-Dist: pydantic (>=1.10.17,<3)
+Requires-Dist: python_dateutil (>=2.5.3,<3.0.0)
+Requires-Dist: urllib3 (>=1.25.3,<2.0.0)
+Project-URL: Documentation, https://docs.edgeimpulse.com/reference/edge-impulse-api/edge-impulse-api
+Description-Content-Type: text/markdown
+
+# Edge Impulse API bindings
+
+This is the official Python API bindings for Edge Impulse. It's designed to make it easier to use the Edge Impulse API from Python.
+
+For a high-level SDK that automates common tasks, see the [Edge Impulse Python SDK](https://pypi.org/project/edgeimpulse/).
+
+The API documentation can be found [here](https://docs.edgeimpulse.com/reference/python-api-bindings/edgeimpulse_api).
+
+## Usage
+
+```python
+$ pip install edgeimpulse-api
+
+> import edgeimpulse_api as ei_api
+```
+

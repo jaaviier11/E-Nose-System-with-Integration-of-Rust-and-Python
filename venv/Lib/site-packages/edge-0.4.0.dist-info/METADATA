@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: edge
+Version: 0.4.0
+Summary: Python bindings for Directed Edge's API
+Home-page: http://pypi.python.org/pypi/edge
+Author: Directed Edge
+License: BSD
+Requires-Dist: httplib2
+Dynamic: author
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
